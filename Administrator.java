@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-public class Administrator 
+public class Administrator extends User
 {
 	private ArrayList<String> permissions;
 	private ArrayList<String> roles;
